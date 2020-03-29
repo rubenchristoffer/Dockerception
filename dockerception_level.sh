@@ -1,3 +1,5 @@
+PWD=`cat pwd`
+
 echo "You have reached another dockerception level!"
 echo "You are now at level $LEVEL"
 echo "Do you dare go down another level? :O"
