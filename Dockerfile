@@ -1,4 +1,4 @@
 FROM docker
-CMD docker --version && echo "You are now at level 1" && ls -all
 
+CMD docker sh dockerception_level.sh
 WORKDIR /home
