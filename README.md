@@ -1,0 +1,2 @@
+# Dockerception
+Have you ever watched the movie Inception? If so, this is the repository for you! This project provides a Dockerfile used for creating a Docker image. By running this image using the run.sh file it runs a new docker container that runs a copy of itself! This way you achieve an effect similar to that in Inception. It also tells you which level you are at. How far are you willing to go?
